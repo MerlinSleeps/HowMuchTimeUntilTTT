@@ -1,5 +1,5 @@
 
-* { 
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -13,6 +13,7 @@ h2 {
     font-size: 5rem;
     font-weight: bold;
     padding: 3rem;
+    background-color: yellow;
 }
 
 .coming-soon {
@@ -22,10 +23,11 @@ h2 {
     flex-direction: column;
     justify-content: center;
     background-image: url("images/Hourglass.jpeg");
-    background-size: 100%;
+    background-size: 10%;
 }
 
 .countdown {
+    background-color: yellow;
     display: flex;
     justify-content: space-around;
     text-align: center;
